@@ -1,5 +1,5 @@
 {
-  "securityMessage": "如果使用chatanywhere的api端点，访问https://api.chatanywhere.cn/v1/oauth/free/github/render获得提供的免费KEY",
+  "securityMessage": "如果使用chatanywhere的API端点，前往https://api.chatanywhere.cn/v1/oauth/free/github/render获得免费KEY",
   "apiEndpoint": {
     "inputLabel": "API 端点",
     "description": "选用非官方 API 端点时，它会作为代理运作。代理作用是在您的设备和目标服务器（在本例中为 OpenAI API）之间充当中介。通过这样做，您能够在被限制的地区访问 OpenAI API。",
